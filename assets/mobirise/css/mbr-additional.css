@@ -1745,7 +1745,6 @@ body {
 }
 .cid-qxHLL1Wh27 h4 {
   text-align: left;
-  font-weight: 500;
 }
 .cid-qxHLL1Wh27 p {
   color: #767676;
@@ -1828,12 +1827,10 @@ body {
 }
 .cid-qxIdiw5lAk h4 {
   display: flex;
-  letter-spacing: 0.03em;
   color: #ffffff;
   align-items: center;
 }
 .cid-qxIdiw5lAk .panel-text {
-  letter-spacing: 0.03em;
   color: #444444;
 }
 .cid-qxIdiw5lAk .mbr-section-title {
@@ -1841,8 +1838,6 @@ body {
   color: #000000;
 }
 .cid-qxIdiw5lAk .mbr-section-subtitle {
-  letter-spacing: 0.03em;
-  font-weight: 500;
   color: #000000;
 }
 .cid-qxIdiw5lAk .accordion-content {
@@ -1867,7 +1862,6 @@ body {
   background-color: #444444;
   margin-bottom: 0;
   font-style: normal;
-  font-weight: 500;
   display: flex;
   align-items: center;
   text-decoration: none !important;
@@ -1930,21 +1924,16 @@ body {
 }
 .cid-qxHXQVGb2o h4 {
   display: flex;
-  letter-spacing: 0.03em;
   color: #ffffff;
   align-items: center;
 }
 .cid-qxHXQVGb2o .panel-text {
-  letter-spacing: 0.03em;
   color: #444444;
 }
 .cid-qxHXQVGb2o .mbr-section-title {
-  letter-spacing: 0.1em;
   color: #000000;
 }
 .cid-qxHXQVGb2o .mbr-section-subtitle {
-  letter-spacing: 0.03em;
-  font-weight: 500;
   color: #000000;
 }
 .cid-qxHXQVGb2o .accordion-content {
@@ -1969,7 +1958,6 @@ body {
   background-color: #444444;
   margin-bottom: 0;
   font-style: normal;
-  font-weight: 500;
   display: flex;
   align-items: center;
   text-decoration: none !important;
@@ -2045,6 +2033,9 @@ body {
 .cid-qxLXSZ1FvK .mbr-text {
   color: #232323;
 }
+.cid-qxLXSZ1FvK .mbr-text P {
+  color: #000000;
+}
 .cid-qxLXIO0hXw {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -2060,8 +2051,6 @@ body {
 .cid-qxLXIO0hXw .nav-tabs .nav-link {
   box-sizing: border-box;
   color: #000000;
-  font-style: normal;
-  font-weight: 500;
   border-radius: 3px;
   border: 1px solid #000000;
   padding: 1rem 3rem;
@@ -2072,7 +2061,6 @@ body {
   background-color: #3773b9;
 }
 .cid-qxLXIO0hXw .nav-tabs .nav-link.active {
-  font-weight: 500;
   color: #ffffff;
   font-style: normal;
   border: none;
@@ -2089,6 +2077,7 @@ body {
 }
 .cid-qxLXIO0hXw P {
   text-align: left;
+  color: #000000;
 }
 .cid-qxMmbPxN9Y {
   padding-top: 0px;
@@ -2098,7 +2087,6 @@ body {
 .cid-qxMmbPxN9Y .mbr-text {
   color: #000000;
   text-align: center;
-  letter-spacing: 0.03em;
 }
 .cid-qxMmbPxN9Y h4 {
   text-align: center;
@@ -2122,21 +2110,18 @@ body {
   text-align: center;
 }
 .cid-qxMmbPxN9Y .card-title {
-  letter-spacing: 0.1em;
   font-weight: bold;
   margin-bottom: 2rem;
 }
 .cid-qxMmbPxN9Y .header-title {
   color: #000000;
   text-align: center;
-  letter-spacing: 0.1em;
   padding: 0;
   margin-bottom: 2rem;
 }
 .cid-qxMmbPxN9Y .header-text {
   color: #000000;
   text-align: left;
-  letter-spacing: 0.03em;
   margin-bottom: 2rem;
 }
 .cid-qxHoFkzQOS {
@@ -2146,21 +2131,16 @@ body {
 }
 .cid-qxHoFkzQOS h4 {
   display: flex;
-  letter-spacing: 0.03em;
   color: #ffffff;
   align-items: center;
 }
 .cid-qxHoFkzQOS .panel-text {
-  letter-spacing: 0.03em;
   color: #444444;
 }
 .cid-qxHoFkzQOS .mbr-section-title {
-  letter-spacing: 0.1em;
   color: #000000;
 }
 .cid-qxHoFkzQOS .mbr-section-subtitle {
-  letter-spacing: 0.03em;
-  font-weight: 500;
   color: #000000;
 }
 .cid-qxHoFkzQOS .accordion-content {
@@ -2185,7 +2165,6 @@ body {
   background-color: #444444;
   margin-bottom: 0;
   font-style: normal;
-  font-weight: 500;
   display: flex;
   align-items: center;
   text-decoration: none !important;
@@ -2250,7 +2229,7 @@ body {
   color: #232323;
 }
 .cid-qxMzIs9bZT {
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -2264,22 +2243,18 @@ body {
 }
 .cid-qxMATOegox h4 {
   display: flex;
-  letter-spacing: 0.03em;
   color: #ffffff;
   align-items: center;
 }
 .cid-qxMATOegox .panel-text {
-  letter-spacing: 0.03em;
   color: #444444;
 }
 .cid-qxMATOegox .mbr-section-title {
-  letter-spacing: 0.1em;
   color: #000000;
 }
 .cid-qxMATOegox .mbr-section-subtitle {
-  letter-spacing: 0.03em;
-  font-weight: 500;
   color: #000000;
+  text-align: left;
 }
 .cid-qxMATOegox .accordion-content {
   flex-basis: 100%;
@@ -2303,7 +2278,6 @@ body {
   background-color: #444444;
   margin-bottom: 0;
   font-style: normal;
-  font-weight: 500;
   display: flex;
   align-items: center;
   text-decoration: none !important;
@@ -2363,7 +2337,7 @@ body {
   text-align: left;
 }
 .cid-qxMzDgWT0s {
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
