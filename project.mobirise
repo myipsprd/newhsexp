@@ -1090,7 +1090,8 @@
               "color": "#3773b9"
             },
             ".mbr-section-subtitle": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             },
             ".accordion-content": {
               "flex-basis": "100%",
